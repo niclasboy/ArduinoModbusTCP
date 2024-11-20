@@ -17,8 +17,8 @@
   Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA  02110-1301  USA
 */
 
-#ifndef _ARDUINO_MODBUS_H_INCLUDED
-#define _ARDUINO_MODBUS_H_INCLUDED
+#ifndef _ARDUINO_MODBUS_TCP_H_INCLUDED
+#define _ARDUINO_MODBUS_TCP_H_INCLUDED
 
 #include "ModbusTCPClient.h"
 #include "ModbusTCPServer.h"
